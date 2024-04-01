@@ -1,5 +1,10 @@
+{
+  margin:0;
+  padding:0;
+}
 .cabecalho {
-  background-color: #424e61;
+  
+    background-color: #424e61;
   color: white;
   display: flex;
   flex-direction: row;
@@ -7,16 +12,16 @@
   margin: 24px 0;
 }
 
-.cabecalho-imagem{
+.cabecalho-imagem {
   width: 20%
 }
 
-.cabecalho-lista-item{
+.cabecalho-lista-item {
   display: inline-block;
   margin: 0 16px;
 }
 
-.escola-imagem{
+.escola-imagem {
   width: 25%;
 }
 
@@ -30,5 +35,5 @@
 
 .escola-div-conteudo {
   width: 35%;
-  
+
 }
