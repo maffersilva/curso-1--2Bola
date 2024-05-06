@@ -25,7 +25,16 @@
     display: inline-block;
     margin: 0 16px;
     font-size: 24px;
-  }
+  }Sobre a Escola
+  A escola alura foi fundada em 2010 com o objetivo de ensinar pensamento computacional atravez de programacao
+  
+  A turma mais famosa e a serie segundo A. Uma turma diversa e engajada, as vezes, um pouco bagunceira, mais que entrega excelentes resultados!
+  
+  ￼
+  Quem são os nossos estudantes?
+  ￼
+  Maria
+  
 
   .escola-imagem {
     width: 25%;
@@ -52,3 +61,15 @@
   .estudante-div{
     align-items: center ;
   }
+
+
+
+
+
+
+}
+
+.estudantes-todos{ 
+  display: grid;
+ grid-template-columns: 20% 20% 20% 20% 20%
+
